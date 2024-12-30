@@ -10,11 +10,11 @@ Website for real estate firms to add property listings and realtors for potentia
 <img src="./resources/4 Listing.PNG">  
 
 ## Inquiry
-<img src="./resources/5 Inquiry.PNG">  
+<img src="./resources/6 Inquiry.PNG">  
 
 ## About
-<img src="./resources/6 About.PNG">  
 <img src="./resources/7 About.PNG">  
+<img src="./resources/8 About.PNG">  
 
 ## Dashboard
 <img src="./resources/8 Dashboard.PNG">  
