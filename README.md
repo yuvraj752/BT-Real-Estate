@@ -1,11 +1,11 @@
 # BT Real Estate
-Website for real estate firms to add property listings and realtors for potential clients to search, browse and make inquiries.
+Website for real estate firms to add property listings and realtors for potential clients to search and make inquiries.
 
 # Home
-<img src="./resources/1 Home.PNG">  
+<img src="./resources/1. Home.PNG">  
 
 # Listings
-<img src="./resources/2 Listings.PNG">  
+<img src="./resources/2. Listings.PNG">  
 <img src="./resources/3 Listing.PNG">  
 <img src="./resources/4 Listing.PNG">  
 
