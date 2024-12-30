@@ -19,4 +19,7 @@ Website for real estate firms to add property listings and realtors for potentia
 <img src="./resources/8 Dashboard.PNG">  
 
 ## Admin
-<img src="./resources/12 Admin.PNG">  
+<img src="./resources/5 Admin.PNG">  
+
+## Responsive
+<img src="./resources/9 Responsive.png">  
