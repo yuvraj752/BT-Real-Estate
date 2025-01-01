@@ -1,5 +1,5 @@
 # BT Real Estate
-Website for real estate firms to add property listings for buyers to search, browse and make inquiries.
+A platform where real estate firms can list properties, allowing buyers to search, browse through listings, view details, and make inquiries directly.
 
 ## Home
 <img src="./resources/1. Home.PNG">  
